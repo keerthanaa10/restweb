@@ -1,4 +1,4 @@
-# Ex.07 Restaurant Website
+# Ex-7 Restaurant Website
 ## Date: 17-10-24
 
 ## AIM:
